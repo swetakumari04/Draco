@@ -1,5 +1,5 @@
 # Draco - A Dragon Game
-## Similar to the game which is displayed on your chrome browser when interet is down
+## Similar to the game which is displayed on your chrome browser when internet is down
 
 ## How to play?
 => Move the arrow keys on your keyboard to play
